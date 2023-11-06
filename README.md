@@ -1,11 +1,24 @@
 # Hotel Management Network Design & Implementation
 <h2>Introduction</h2>
-<p>Smile University is a large university which has two campuses situated 20 miles apart. The university's students and staff are distributed in 4 faculties; these include the faculties of:<br> 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#x2022; Faculty of Business (FOB)<br> 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#x2022; Faculty of Law (FOL)<br> 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp &#x2022; Faculty of Information, Sains and Technology (FIST)<br> 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#x2022; Faculty of Engineering & Technology (FET)<br> 
-</p>
+<p>We are required to design and implement Vic Modern Hotel network. The hotel has three floors; in the first floor there three departments (Reception, store and Logistics), in the second floor there are three departments (Finance, HR and Sales/Marketing), while the third floor hosts the IT and Admin. Therefore, the following are part of the considerations during the design and implementation:</p>
+
+* There should be three routers connecting each floor (all placed in the server room in IT department).<br> 
+* All routers should be connected to each other using serial DCE cable.<br> 
+* Each floor is expected to have one switch (placed in the respective floor).<br> 
+* Each floor is expected to have WIFI networks connected to laptops and phones.<br> 
+* Each department is expected to have a printer.<br>
+* Each department is expected to be in different VLAN with the following details.<br> 
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>Requirements</h2>
  <p> Create a network topology with the main components to support the following:<br><br>
