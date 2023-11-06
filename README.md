@@ -51,12 +51,9 @@
 12. Test and Verifying Network Communication.</p>
 
 
-
-
-
 <h2>Result</h2>
-<img src="https://raw.githubusercontent.com/Jackiedee1223/image-repos/5b028134805ba2b26edaaf3bd33b0d9d0a85fecd/Network%20Design.png">
+<img src="https://github.com/Jackiedee1223/image-repos/blob/main/hmi.png">
 
 <h2>Reference</h2>
-<p>Learning from GURUTECH NETWORKS </p>
+<p>Learning from <b>GURUTECH NETWORKS<br> </p>
 
